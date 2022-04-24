@@ -1,0 +1,6 @@
+name: pulumi-github
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A minimal GitHub Python Pulumi program
